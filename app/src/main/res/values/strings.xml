@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trial</string>
+    <string name="this_is_closest_to">This is closest to :</string>
+    <string name="button">Predict</string>
+    <string name="select">Select</string>
+    <string name="result1">Result1</string>
+    <string name="result2">Result2</string>
+    <string name="result3">Result3</string>
+    <string name="todo">TODO</string>
+
+</resources>
